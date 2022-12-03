@@ -1,7 +1,10 @@
 # SC-Addons-esx
 Extra commands voor jou server ( txadmin support )
 
-
+------------------------------------
+Information - EN/NL
+------------------------------------
+https://tijmenk.gitbook.io/sc-commands-esx/
 
 ------------------------------------
 ***es_extened support***
