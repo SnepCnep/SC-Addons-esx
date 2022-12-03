@@ -61,6 +61,7 @@ Config.itemhandboeien         = "handcuffs"
 Config.itemtiewrap            = "tiewrap"
 Config.itemcutters            = "cutters"
 Config.itembigcutters         = "bigcutters"
+
 -- #Handsup
 Config.handsup                = true --- X - handsup
 -- #PointFinger
