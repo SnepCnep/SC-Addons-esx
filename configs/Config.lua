@@ -6,10 +6,10 @@ Config.esx                    = true -- False = 1.2+ | True = 1.8.5+ ( es_extend
 Config.sc_commands            = true -- Anable the module of sc-commands | False or True
 
 Config.skinmenu               = true
-Config.skinmenucmd            = "staffskin"
+Config.skinmenucmd            = "skinmenu"
 Config.status                 = true
-Config.food                   = "eten"
-Config.drinks                 = "drinken"
+Config.food                   = "food"
+Config.drinks                 = "water"
 
 
 -- #TX ADDONS
@@ -19,20 +19,20 @@ Config.txfreeze               = true
 Config.freezecmd              = "freeze"
 Config.unfreezecmd            = "unfreeze"
 Config.txrepair               = true
-Config.repaircmd              = "staffrepair"
+Config.repaircmd              = "txrepair"
 Config.txtpm                  = true
 Config.tpmcmd                 = "tpm"
 Config.txmededeling           = true
-Config.mededelingcmd          = "txmededeling"
+Config.mededelingcmd          = "txannouncement"
 Config.txtpc                  = true
 Config.tpccmd                 = "tpc"
 Config.txtroll                = true
 Config.animal                 = true
-Config.animalcmd              = "dierenaanval"
+Config.animalcmd              = "animalattack"
 Config.fire                   = true
-Config.firecmd                = "setinvuur"
+Config.firecmd                = "setonfire"
 Config.drunk                  = true
-Config.drunkcmd               = "dronken"
+Config.drunkcmd               = "drunk"
 Config.txchatkbw              = true
 
 -- #Discord
