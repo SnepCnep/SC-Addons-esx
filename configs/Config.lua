@@ -66,15 +66,18 @@ Config.itembigcutters         = "bigcutters"
 Config.handsup                = true --- X - handsup
 -- #PointFinger
 Config.pointfinger            = true --- B - point finger
--- #TakeHostage
-Config.takehostage            = true
-Config.takehostagecmd         = "takehostage"
-Config.takehostage2cmd        = "th"
-Config.noammo                 = "Jij hebt geen vuurwapen?"
-Config.erisniemand            = "Er is niemand in de buurt?"
 -- #AntiVdm
 Config.antivdm                = true
 -- #NoDriveBy
 Config.nodriveby              = true
 
 
+---
+---# MOET NOG TESTEN
+---
+-- #TakeHostage
+Config.takehostage            = true
+Config.takehostagecmd         = "takehostage"
+Config.takehostage2cmd        = "th"
+Config.noammo                 = "Jij hebt geen vuurwapen?"
+Config.erisniemand            = "Er is niemand in de buurt?"
